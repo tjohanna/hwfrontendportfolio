@@ -11,7 +11,7 @@ import Projects from "./pages/Projects";
 
 function App() {
 
-  const URL = "http://localhost:4000/";
+  const URL = "https://tender-torvalds-6212af.netlify.app/";
 
   return (
     <div className="App">
